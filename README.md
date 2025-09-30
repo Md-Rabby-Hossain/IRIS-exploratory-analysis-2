@@ -15,7 +15,3 @@ The project includes **boxplots, scatter plots, and median analysis** to visuali
 
 ---
 
-If you want, I can also **write a ready-to-use folder structure with placeholders** for:  
-- `data/` → your CSV  
-- `plots/` → screenshots  
-- `scripts/` → Python code  
